@@ -8,7 +8,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'San Jorge',
-  description: 'Alejandro',
+  description: 'Veterinaria San Jorge | Cuidado veterinario completo para tu mascota: consulta, vacunación, cirugía, odontología y atención a domicilio. Más de 15 años de experiencia brindando bienestar y tranquilidad.',
   generator: 'Alejandro',
 }
 
