@@ -1,5 +1,5 @@
 export function Hero() {
-  const phoneNumber = "34912345678"; // Reemplaza con tu número
+  const phoneNumber = "+51994702350";
   const message = "Hola, me gustaría agendar una cita para mi mascota";
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(
     message
