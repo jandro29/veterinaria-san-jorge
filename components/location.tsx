@@ -50,9 +50,8 @@ export default function Location() {
                 Horario de Atención
               </h3>
               <div className="space-y-2 text-muted-foreground">
-                <p>Lunes - Viernes: 8:00 AM - 6:00 PM</p>
-                <p>Sábado: 9:00 AM - 4:00 PM</p>
-                <p>Domingo: Cerrado</p>
+                <p>Lunes - Sábado: 9:00 AM - 8:00 PM</p>
+                <p>Domingo: 9:00 AM - 2:00 PM</p>
                 <p className="pt-2 text-primary font-semibold">
                   Emergencias: 24/7
                 </p>
