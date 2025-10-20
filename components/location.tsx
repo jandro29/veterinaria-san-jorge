@@ -52,9 +52,6 @@ export default function Location() {
               <div className="space-y-2 text-muted-foreground">
                 <p>Lunes - Sábado: 9:00 AM - 8:00 PM</p>
                 <p>Domingo: 9:00 AM - 2:00 PM</p>
-                <p className="pt-2 text-primary font-semibold">
-                  Emergencias: 24/7
-                </p>
               </div>
             </div>
 
